@@ -1,1 +1,1 @@
-# Football-ranking-players
+# Simulaões para avaliar Elo Rating
