@@ -1,1 +1,1 @@
-# Simulaões para avaliar Elo Rating
+# Simulações para avaliar Elo Rating
